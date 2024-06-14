@@ -1,0 +1,5 @@
+app/backend/.venv
+__pycache__
+.db.env
+.env
+*.code-workspace
